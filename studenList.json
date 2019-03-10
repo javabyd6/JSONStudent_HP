@@ -1,1 +1,27 @@
-[{"name":"Jas","lastname":"Adamczyk","index":1},{"name":"Gosia","lastname":"Bigos","index":2},{"name":"Michał","lastname":"Lucys","index":3},{"name":"Michalina","lastname":"Apek","index":4},{"name":"Krzysiu","lastname":"Piec","index":5}]
+[
+  {
+    "name": "Jas",
+    "lastname": "Adamczyk",
+    "index": 1
+  },
+  {
+    "name": "Gosia",
+    "lastname": "Bigos",
+    "index": 2
+  },
+  {
+    "name": "Michał",
+    "lastname": "Lucys",
+    "index": 3
+  },
+  {
+    "name": "Michalina",
+    "lastname": "Apek",
+    "index": 4
+  },
+  {
+    "name": "Krzysiu",
+    "lastname": "Piec",
+    "index": 5
+  }
+]

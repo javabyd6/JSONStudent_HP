@@ -17,8 +17,8 @@ public class Main {
     public static void main(String[] args) {
         ObjectMapper mapper = new ObjectMapper();
         List<Student> studentList = new ArrayList<>();
-//        new Student("Jas", "Adamczyk",1);
-        studentList.add(new Student("Jas", "Adamczyk", new Integer(1)));
+
+        studentList.add(new Student("Adam", "Adamczyk", new Integer(1)));
         studentList.add(new Student("Gosia", "Bigos", 2));
         studentList.add(new Student("Michał", "Lucys", 3));
         studentList.add(new Student("Michalina", "Apek", 4));
